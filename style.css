@@ -29,7 +29,7 @@ body { font-family: var(--font-main); color: var(--black); background-color: var
 .logo span { color: var(--maroon); }
 
 .nav-links { list-style: none; display: flex; gap: 30px; align-items: center; }
-.nav-links li a { text-decoration: none; color: var(--white); font-weight: 500; transition: color 0.3s; }
+.nav-links li a { text-decoration: none; color: var(--gold); font-weight: 500; transition: color 0.3s; }
 .nav-links li a:hover, .nav-links li a.active { color: var(--gold); }
 
 .btn {
